@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(119,94): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(412,96): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(940,91): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(1180,70): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(1262,70): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(1301,62): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\Visual studio project\DSA Project\Hospital Employee Management System\Main.cpp(1067,18): warning C4102: 'admin_DelEmp': unreferenced label
+  Hospital Employee Management System.vcxproj -> C:\Users\User\Desktop\Visual studio project\DSA Project\Debug\Hospital Employee Management System.exe
